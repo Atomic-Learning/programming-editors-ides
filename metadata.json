@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Programming: Editors and IDEs",
+    "slug": "programming-editors-ides",
+    "description": "An introduction to editors and Integrated Development Environments (IDEs) including the range of options available, and their uses and features.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "programming",
+        "software-engineering"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
+        "programming-visual-studio-code-introduction"
     ]
 }
